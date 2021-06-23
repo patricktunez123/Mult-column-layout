@@ -1,0 +1,16 @@
+.container {
+  -webkit-column-count: 3;
+          column-count: 3;
+  -webkit-column-rule: 1px;
+          column-rule: 1px;
+  -webkit-column-rule-color: green;
+          column-rule-color: green;
+  -webkit-column-rule-style: solid;
+          column-rule-style: solid;
+}
+
+h1 {
+  -webkit-column-span: all;
+          column-span: all;
+}
+/*# sourceMappingURL=style.css.map */

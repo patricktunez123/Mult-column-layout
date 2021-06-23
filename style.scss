@@ -1,0 +1,10 @@
+.container {
+  column-count: 3;
+  column-rule: 1px;
+  column-rule-color: green;
+  column-rule-style: solid;
+}
+
+h1 {
+  column-span: all;
+}
